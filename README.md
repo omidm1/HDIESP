@@ -1,9 +1,11 @@
 # HDIESP
 
-Winter Ready 2019 Lab
+Winter Ready 2019 
 
-Download either the Spark User or Kafka User pdfs and follow the instructions.
+Lab: (DA-DP-TS345) Defense in Depth with Azure HDInsight: From Perimeter Security to Encryption at Rest)
 
-For templates you can go to:
+Download either the Spark User or Kafka User pdf and follow the instructions.
+
+You can find templates in the instructions here:
 https://github.com/tylerfox/HDInsight-ESP-Kafka-Spark
 
